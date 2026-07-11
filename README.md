@@ -1,6 +1,6 @@
 # NutriNest AI 🌿
 
-NutriNest AI is an advanced, AI-powered smart kitchen inventory and personalized recipe generator ecosystem. Built on top of **Next.js (App Router)** and **MongoDB**, it leverages the state-of-the-art **Google Gemini 2.5 Flash** model via the official `@google/genai` SDK to dynamically construct delicious, context-aware recipes using the ingredients currently available in your pantry, while matching your family's specific dietary profiles, allergies, and health conditions.
+NutriNest AI is an advanced, AI-powered smart kitchen inventory and personalized recipe generator system. Built on top of **Next.js (App Router)** and **MongoDB**, it leverages the state-of-the-art **Google Gemini 2.5 Flash** model via the official `@google/genai` SDK to dynamically construct delicious, context-aware recipes using the ingredients currently available in your pantry, while matching your family's specific dietary profiles, allergies, and health conditions.
 
 ---
 
