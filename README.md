@@ -17,7 +17,7 @@ NutriNest AI is an advanced, AI-powered smart kitchen inventory and personalized
 
 ## 🛠️ Architecture & Tech Stack
 
-- **Framework**: [Next.js 16](https://nextjs.org/) (App Router)
+- **Framework**: [Next.js 16+](https://nextjs.org/) (App Router)
 - **Programming Language**: JavaScript (ES6+)
 - **Styling**: [Tailwind CSS v4](https://tailwindcss.com/)
 - **Database**: [MongoDB](https://www.mongodb.com/) (MongoClient database driver)
